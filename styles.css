@@ -3,7 +3,7 @@ body{
 }
 
 
-main{
+div{
     background-color:hsl(0, 0%, 12%);
     width: 400px;
     height: auto;
@@ -17,6 +17,7 @@ main{
     padding-bottom: 40px;
     border-radius: 10px;
     align-items: center;
+    justify-content: center;
 }
 
 img{
